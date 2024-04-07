@@ -26,11 +26,6 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, React, Django, SQL**
-
-- 🌱 I’m currently learning **NodeJs and Java.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 
 - 📫 Feel free to reach me out **junior.portilho2005@gmail.com**
