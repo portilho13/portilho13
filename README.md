@@ -19,12 +19,6 @@
 
 <!--Intro start-->
 
-
-- 📫 Feel free to reach me out **junior.portilho2005@gmail.com**
-
-
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
